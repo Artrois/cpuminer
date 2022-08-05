@@ -1,3 +1,5 @@
+This is a fork from https://github.com/pooler/cpuminer. Following is the original text.
+
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
 fork of Jeff Garzik's reference cpuminer.
 
